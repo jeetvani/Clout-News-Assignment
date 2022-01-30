@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "768208392551",
+    "firebase_url": "https://cloutnewsassign-default-rtdb.firebaseio.com",
+    "project_id": "cloutnewsassign",
+    "storage_bucket": "cloutnewsassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768208392551:android:1237cebadb29909c0a9fc2",
+        "android_client_info": {
+          "package_name": "com.jeetvani.cloutnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768208392551-0b8lghc41g6b16hvadg72mui1mm2csbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeetvani.cloutnews",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "768208392551-jchkf8r38it3hbo7rket2sl6hiodpr0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeetvani.cloutnews",
+            "certificate_hash": "16538513876f0148b256f72827e4e53e6159dc28"
+          }
+        },
+        {
+          "client_id": "768208392551-b1i6k3u68pd4uarsb7v1fouggm22ptnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeaoDY85yHbBpiPvzkjpkZXrOwEIJ-Zw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768208392551-b1i6k3u68pd4uarsb7v1fouggm22ptnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
